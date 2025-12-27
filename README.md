@@ -1,6 +1,6 @@
-# Noah's Projects Repository  
+# Noah's Knowledge Base  
 
-Welcome to my central repository for all my projects! 🚀 This repository serves as a collection of the various applications, tools, and experiments I’ve created over time. Each project is stored in its own dedicated folder, with a brief overview provided here to help you navigate.  
+Welcome to my central repository for all my projects! 🚀 This repository serves as a collection of the various applications, tools, and experiments I’ve created over time. Each project is stored in its own dedicated folder, with a brief overview provided here to help you navigate.
 
 📝 Check out my blog: [Link](https://codeandscale.hashnode.dev) <br/>
 
